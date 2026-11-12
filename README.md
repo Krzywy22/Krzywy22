@@ -8,7 +8,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./typing-dark.svg">
-  <img src="./typing-light.svg" width="640" height="36" alt="I build invoicing software for Poland's KSeF">
+  <img src="./typing-light.svg" width="480" height="36" alt="I build invoicing software for Poland's KSeF">
 </picture>
 
 <p align="right">┘</p>
@@ -38,8 +38,12 @@ Building <a href="https://fakturago.pl">FakturaGO</a>, a Windows invoicing appli
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark.svg">
-  <img src="./stack-light.svg" width="733" height="28" alt="TypeScript, React, Electron, Node.js, SQLite, PHP, Python, Java">
+  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark-1.svg">
+  <img src="./stack-light-1.svg" width="405" height="28" alt="TypeScript, React, Electron, Node.js">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark-2.svg">
+  <img src="./stack-light-2.svg" width="321" height="28" alt="SQLite, PHP, Python, Java">
 </picture>
 </p>
 

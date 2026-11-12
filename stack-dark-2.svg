@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="321" height="28" viewBox="0 0 321 28" role="img" aria-label="SQLite, PHP, Python, Java">
+<title>SQLite, PHP, Python, Java</title>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#e6edf3">
+<rect x="0.5" y="0.5" width="83.6" height="27" rx="13.5" fill="#151b23" stroke="#3d444d"/>
+<circle cx="15.5" cy="14.0" r="4.0" fill="#0f80cc"/>
+<text x="26.5" y="18.3" textLength="45.6" lengthAdjust="spacing">SQLite</text>
+<rect x="92.1" y="0.5" width="60.8" height="27" rx="13.5" fill="#151b23" stroke="#3d444d"/>
+<circle cx="107.1" cy="14.0" r="4.0" fill="#777bb4"/>
+<text x="118.1" y="18.3" textLength="22.8" lengthAdjust="spacing">PHP</text>
+<rect x="160.9" y="0.5" width="83.6" height="27" rx="13.5" fill="#151b23" stroke="#3d444d"/>
+<circle cx="175.9" cy="14.0" r="4.0" fill="#ffd43b"/>
+<text x="186.9" y="18.3" textLength="45.6" lengthAdjust="spacing">Python</text>
+<rect x="252.5" y="0.5" width="68.4" height="27" rx="13.5" fill="#151b23" stroke="#3d444d"/>
+<circle cx="267.5" cy="14.0" r="4.0" fill="#e76f00"/>
+<text x="278.5" y="18.3" textLength="30.4" lengthAdjust="spacing">Java</text>
+</g>
+</svg>
