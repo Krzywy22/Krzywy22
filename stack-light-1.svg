@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="28" viewBox="0 0 405 28" role="img" aria-label="TypeScript, React, Electron, Node.js">
+<title>TypeScript, React, Electron, Node.js</title>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">
+<rect x="0.5" y="0.5" width="114.0" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="15.5" cy="14.0" r="4.0" fill="#3178c6"/>
+<text x="26.5" y="18.3" textLength="76.0" lengthAdjust="spacing">TypeScript</text>
+<rect x="122.5" y="0.5" width="76.0" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="137.5" cy="14.0" r="4.0" fill="#61dafb"/>
+<text x="148.5" y="18.3" textLength="38.0" lengthAdjust="spacing">React</text>
+<rect x="206.5" y="0.5" width="98.8" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="221.5" cy="14.0" r="4.0" fill="#9feaf9"/>
+<text x="232.5" y="18.3" textLength="60.8" lengthAdjust="spacing">Electron</text>
+<rect x="313.3" y="0.5" width="91.2" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="328.3" cy="14.0" r="4.0" fill="#5fa04e"/>
+<text x="339.3" y="18.3" textLength="53.2" lengthAdjust="spacing">Node.js</text>
+</g>
+</svg>
