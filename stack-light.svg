@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="733" height="28" viewBox="0 0 733 28" role="img" aria-label="TypeScript, React, Electron, Node.js, SQLite, PHP, Python, Java">
+<title>TypeScript, React, Electron, Node.js, SQLite, PHP, Python, Java</title>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#1f2328">
+<rect x="0.5" y="0.5" width="114.0" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="15.5" cy="14.0" r="4.0" fill="#3178c6"/>
+<text x="26.5" y="18.3" textLength="76.0" lengthAdjust="spacing">TypeScript</text>
+<rect x="122.5" y="0.5" width="76.0" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="137.5" cy="14.0" r="4.0" fill="#61dafb"/>
+<text x="148.5" y="18.3" textLength="38.0" lengthAdjust="spacing">React</text>
+<rect x="206.5" y="0.5" width="98.8" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="221.5" cy="14.0" r="4.0" fill="#9feaf9"/>
+<text x="232.5" y="18.3" textLength="60.8" lengthAdjust="spacing">Electron</text>
+<rect x="313.3" y="0.5" width="91.2" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="328.3" cy="14.0" r="4.0" fill="#5fa04e"/>
+<text x="339.3" y="18.3" textLength="53.2" lengthAdjust="spacing">Node.js</text>
+<rect x="412.5" y="0.5" width="83.6" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="427.5" cy="14.0" r="4.0" fill="#0f80cc"/>
+<text x="438.5" y="18.3" textLength="45.6" lengthAdjust="spacing">SQLite</text>
+<rect x="504.1" y="0.5" width="60.8" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="519.1" cy="14.0" r="4.0" fill="#777bb4"/>
+<text x="530.1" y="18.3" textLength="22.8" lengthAdjust="spacing">PHP</text>
+<rect x="572.9" y="0.5" width="83.6" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="587.9" cy="14.0" r="4.0" fill="#ffd43b"/>
+<text x="598.9" y="18.3" textLength="45.6" lengthAdjust="spacing">Python</text>
+<rect x="664.5" y="0.5" width="68.4" height="27" rx="13.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="679.5" cy="14.0" r="4.0" fill="#e76f00"/>
+<text x="690.5" y="18.3" textLength="30.4" lengthAdjust="spacing">Java</text>
+</g>
+</svg>
